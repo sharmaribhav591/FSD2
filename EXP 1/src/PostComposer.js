@@ -48,7 +48,7 @@ function PostComposer() {
 
     alert(`Post saved successfully for ${platform}!`);
 
-    // Clear textarea
+ 
     setText("");
   };
 
